@@ -1,0 +1,2 @@
+# magento2-order-confirmation-email
+Magento automatically sends various emails for registration, order, refunds and many more. Generally, Magento auto sends an email once the order is placed but what if someone wants to send email after a successful payment completion from the third-party payment gateways in Magento 2? one of our client came up with the same requirement of sending an order confirmation email after successful order payment.
