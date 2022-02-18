@@ -83,23 +83,20 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Magento Marketplace Extensions By MageComp
 
-[Bulk Coupon Delete](https://marketplace.magento.com/magecomp-magento-2-bulk-coupon-delete.html)
+[Magento 2 Bulk Coupon Delete](https://marketplace.magento.com/magecomp-magento-2-bulk-coupon-delete.html)
 
-[Social Login](https://marketplace.magento.com/magecomp-magento-2-social-login.html)
+[Magento 2 Social Login](https://marketplace.magento.com/magecomp-magento-2-social-login.html)
 
-[Breadcrumbs](https://marketplace.magento.com/magecomp-magento-2-breadcrumbs.html)
+[Magento 2 Breadcrumbs](https://marketplace.magento.com/magecomp-magento-2-breadcrumbs.html)
 
-[Image Alt Tags](https://marketplace.magento.com/magecomp-magento-2-image-alt-tags.html)
+[Magento 2 Image Alt Tags](https://marketplace.magento.com/magecomp-magento-2-image-alt-tags.html)
 
-[SMS Notification Pro](https://marketplace.magento.com/magecomp-magento-2-sms-notification-pro.html)
+[Magento 2 SMS Notification Pro](https://marketplace.magento.com/magecomp-magento-2-sms-notification-pro.html)
 
-[Customer Groups Shipping & Payment Restrictions](https://marketplace.magento.com/magecomp-magento-2-shipping-payment-restrictions-for-customer-groups.html)
+[Magento 2 Customer Groups Shipping & Payment Restrictions](https://marketplace.magento.com/magecomp-magento-2-shipping-payment-restrictions-for-customer-groups.html)
 
-[Disable Right Click](https://marketplace.magento.com/magecomp-magento-2-disable-right-click.html)
+[Magento 2 Disable Right Click](https://marketplace.magento.com/magecomp-magento-2-disable-right-click.html)
 
-[Restrict Order](https://marketplace.magento.com/magecomp-magento-2-restrict-order.html)
+[Magento 2 Restrict Order](https://marketplace.magento.com/magecomp-magento-2-restrict-order.html)
 
-[First Data ICICI](https://marketplace.magento.com/magecomp-magento-2-first-data-icici.html)
-
-
-
+[Magento 2 First Data ICICI](https://marketplace.magento.com/magecomp-magento-2-first-data-icici.html)
